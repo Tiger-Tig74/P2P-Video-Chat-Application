@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Peer-to-peer video chat application",
     "engines": {
-        "node": "18.x"
+        "node": "22.x"
     },
     "scripts": {
         "start": "node index.js"
